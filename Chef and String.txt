@@ -34,4 +34,4 @@ Example case 1: There is only one possible pair: (first student, second student)
 
 Example case 2: One of the ways to form two pairs is: (first student, second student) and (fourth student, fifth student).
 
-Another way to form two pairs is: (second student, third student) and (fourth student, fifth student).
+Another way to form two pairs is: (second student, third student) and (fourth student, fifth student). 
