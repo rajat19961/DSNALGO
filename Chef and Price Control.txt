@@ -20,7 +20,7 @@ Subtasks
 Subtask #1 (100 points): original constraints
 
 Example Input
-3
+3 
 5 4
 10 2 3 4 5
 7 15
