@@ -24,4 +24,4 @@ int main() {
 	    cout<<initSum-afterSum<<endl;
 	}
 	return 0;
-}
+} 
