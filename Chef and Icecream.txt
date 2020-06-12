@@ -19,7 +19,7 @@ Subtasks
 Subtask #1 (40 points): ai∈{5,10} for each valid i
 Subtask #2 (60 points): original constraints
 
-Example Input
+Example Input 
 3
 2
 5 10
